@@ -1,12 +1,12 @@
 criaCartao(
     'Programação',
-    "Qual é a cor do céu em um dia sem nuvens?"
-    ,"azul"
+    "Qual é a cor do céu em um dia sem nuvens?",
+    "azul"
 )
 criaCartao(
     'Programação',
-     "Quantos dedos temos nas mãos?"
-    , "Dez"
+     "Quantos dedos temos nas mãos?",
+     "Dez"
 )
 criaCartao(
     'Programação',
