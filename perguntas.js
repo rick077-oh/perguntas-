@@ -10,21 +10,21 @@ criaCartao(
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+      "Qual animal faz “miau”?",
+    'Gato'
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual fruta é conhecida por ser amarela e ter muito potássio?',
+    'Banana'
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que usamos para escrever no caderno?',
+    ' Lápis ou caneta'
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Em que continente fica o Brasil?',
+    'América do Sul'
 )
